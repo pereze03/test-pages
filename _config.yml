@@ -1,8 +1,8 @@
 title: Cyber Security Journey
 author: Edgar Perez
 email: basdpereze9@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Description detailing my journey.
+#description: > # this means to ignore newlines until "baseurl:"
+#  Detailing my journey into.
 
 github_username:  pereze03 # DO NOT include the @ character, or else the build will fail!
 
