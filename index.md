@@ -5,7 +5,5 @@ title: "About me"
 My name is Edgar Perez. I'm a Computer Science major and aspiring Cyber Security student. This blog is to document the resources I've used and what I've learn on my path to entering the Cyber Security field.
 
 ---
-title: "Career Prospects"
----
 
 I want to get into Offensive Security through Penetration Testing.
